@@ -1,0 +1,4 @@
+# tic-tac-toe rubocop.yml file
+Style/FrozenStringLiteralComment:
+  EnforcedStyle: never
+# disable Style/Documentation
